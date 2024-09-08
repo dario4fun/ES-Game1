@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game1\Game.cpp(206,87): warning C4244: '+=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game1\Game.cpp(207,88): warning C4244: '+=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game1\Game.cpp(208,88): warning C4244: '+=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game1\Game.cpp(209,87): warning C4244: '+=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game1\Game.cpp(210,90): warning C4244: '+=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  52 of 716 functions ( 7.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  SFMLProject2.vcxproj -> C:\Users\dario\Desktop\SFML\EstructuraCore - Game1\x64\Release\EstructuraCore.exe
